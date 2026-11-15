@@ -1,0 +1,376 @@
+id,text,prediction,raw_response,parse_method,quality_warning,gold
+spade_98,That's what guys say when they put their wiener in my face.,Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The text presents a viewpoint or judgment about a topic (the behavior of guys putting their wiener in the speaker's face). Its purpose is to express a",phrased_answer,,Exposition
+spade_99,"Yeah, I know.",Argumentation,"Based on the codebook, I would label the text as ""Argumentation"". 
+
+The reason is that the text presents a viewpoint or judgment (""I know"") about a topic, which is a characteristic of argumentation. The purpose of this",phrased_answer,,Exposition
+spade_100,Can you go a little closer?,Unclear,"Based on the codebook, I would label the text as ""Unclear"". The text is a short, direct question, but it does not contain enough information to determine its primary discourse mode. It does not present a viewpoint, judgment,",phrased_answer,,Narration
+spade_101,"I go, why?",Argumentation,"Based on the codebook, I would label the sentence ""I go, why?"" as Argumentation. 
+
+The reason for this classification is that the sentence presents a viewpoint or judgment (""why?"") about a situation or action (""I go",phrased_answer,,Narration
+spade_102,What are we doing?,Exposition,"Based on the codebook, I would label the sentence ""What are we doing?"" as Exposition. 
+
+The reason for this classification is that the sentence appears to be asking for clarification or background information about the current situation or activity. It",phrased_answer,,Narration
+spade_103,This isn't a blowjob.,Argumentation,"Based on the codebook, I would label the sentence as ""Argumentation"". 
+
+The reason is that the sentence presents a viewpoint or judgment about a topic (the nature of the activity being described). Its purpose is to lead the listener or",phrased_answer,,Narration
+spade_104,"They go, no, no, no.",Argumentation,"Based on the codebook, I would label the text as ""Argumentation"". 
+
+The reason is that the text presents a viewpoint or judgment (""no, no, no"") about a topic, which is likely a disagreement or a reaction to",phrased_answer,,Narration
+spade_105,Just try to touch the back of your throat with it.,Description,"Based on the codebook, I would label the given text as ""Description"". 
+
+The text presents a specific action or instruction (""try to touch the back of your throat with it"") and is likely intended to help the listener understand or replicate",phrased_answer,,Narration
+spade_106,"I go, but that sounds like it's heading towards a beach.",Narration,"Based on the codebook, I would label the given text as ""Narration"". 
+
+The reason for this classification is that the text introduces a particular event or action (""I go"") and provides a description of the destination (""heading towards a",phrased_answer,,Narration
+spade_107,"Yeah, yeah.",Unclear,"Based on the codebook, I would label the text as ""Unclear"". The text does not contain enough interpretable information to reliably determine its primary discourse mode. It appears to be a brief expression of agreement or acknowledgement, but without more",phrased_answer,,Exposition
+spade_108,"Oh, is he talking about Kaepernick?",Argumentation,"Based on the codebook, I would label the text as:
+
+Argumentation
+
+The reason for this classification is that the text presents a viewpoint or interpretation about a topic (Kaepernick), which is a key characteristic of argumentation. The speaker",phrased_answer,,Exposition
+spade_109,"Yeah, there's your boy right there.",Description,"Based on the codebook, I would label the text as ""Description"". 
+
+The text presents a feature (the appearance or identity) of a person (the speaker's friend or acquaintance), and its purpose is to help the listener picture who",phrased_answer,,Exposition
+spade_110,And who's the last guy at the end of the line?,Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The reason for this classification is that the text presents a viewpoint or judgment about a topic (the last guy at the end of the line). The speaker is",phrased_answer,,Exposition
+spade_111,That is... That guy?,Argumentation,"Based on the codebook, I would label the text as ""Argumentation"". 
+
+The reason is that the text presents a viewpoint or judgment about a person (""That guy""), which is a form of evaluative framing about a topic. The",phrased_answer,,Exposition
+spade_112,No.,Unclear,"Based on the codebook, I would label the text as ""Unclear"". The text ""No"" does not contain enough interpretable information to reliably determine its primary discourse mode. It is a single word that does not provide enough context to",phrased_answer,,Exposition
+spade_113,That's Grohl.,Description,"Based on the codebook, I would label the text as ""Description"". 
+
+The reason is that the text presents a quality or feature of a person (Dave Grohl), which is the purpose of a description. It helps the listener picture",phrased_answer,,Exposition
+spade_114,"Yeah, that's Grohl.",Description,"Based on the codebook, I would label the text as: Description
+
+The reason is that the text presents a quality or feature of a person (Grohl), and its purpose is to help the listener picture what someone is like.",phrased_answer,,Exposition
+spade_115,Who's the guy in the back?,Description,"Based on the codebook, I would label the sentence ""Who's the guy in the back?"" as Description. 
+
+The reason for this is that the sentence presents the qualities or features of a person (the guy in the back), specifically",phrased_answer,,Exposition
+spade_116,"Yeah, the guy in the back.",Narration,"Based on the codebook, I would label the sentence ""Yeah, the guy in the back"" as Narration. 
+
+This is because the sentence introduces a particular event or action (referring to a person in a specific location) into",phrased_answer,,Exposition
+spade_117,That's a woman.,Description,"Based on the codebook, the discourse mode that best represents the text ""That's a woman"" is:
+
+Description
+
+This is because the segment presents the qualities or features of a person (a woman), and its purpose is to help the",standalone_label,,Exposition
+spade_118,"No, that isn't.",Argumentation,"Argumentation. 
+
+This sentence presents a viewpoint or judgment about a topic, specifically a disagreement or denial. Its purpose is to lead the listener toward a conclusion, in this case, that the speaker disagrees with the previous statement.",leading_label,,Exposition
+spade_119,It could be.,Argumentation,"Based on the codebook, I would label the text as ""Argumentation"". 
+
+The reason is that the sentence presents a viewpoint or judgment (""It could be"") about a topic, which is a characteristic of argumentation. The purpose of",phrased_answer,,Exposition
+spade_120,that guy's just a homeless dude that walked on the set.,Argumentation,"Based on the codebook, I would label the given text as ""Argumentation"". 
+
+The reason for this classification is that the text presents a viewpoint or judgment about a person (""that guy's just a homeless dude""), which is an evalu",phrased_answer,,Exposition
+spade_121,"And he's just like, temporary layout.",Description,"Based on the codebook, I would label the text as ""Description"". 
+
+The reason is that the text presents the qualities or features of a person (he) in a descriptive manner, specifically focusing on his behavior or attitude (""just like",phrased_answer,,Exposition
+spade_122,They really got effed on Snow White though.,Argumentation,"Based on the codebook, I would label the sentence as:
+
+Argumentation
+
+The sentence presents a viewpoint (""They really got effed on Snow White"") which implies a judgment or interpretation about the topic. The use of the phrase ""got",phrased_answer,,Argumentation
+spade_123,"That is, it did not work in any way, shape or form.",Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The reason for this classification is that the text presents a viewpoint or judgment about the subject (it did not work). The phrase ""in any way, shape",phrased_answer,,Argumentation
+spade_124,"It's like, well, I guess people didn't like it.",Argumentation,"Based on the codebook, I would label the given text as ""Argumentation"". 
+
+The reason for this classification is that the text presents a viewpoint or judgment about people's reaction to something, which is a characteristic of argumentation as defined",phrased_answer,,Exposition
+spade_125,And then Minecraft came along and beat the fucking shit out of it.,Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+This is because the text presents a viewpoint (Minecraft is better than the previous game) and an evaluative framing (using strong language to emphasize the difference",phrased_answer,,Argumentation
+spade_126,"Also, Snow White, it should be about the fentanyl problem, huh?",Argumentation,"Based on the codebook, I would label the given text as ""Argumentation"". 
+
+The reason for this classification is that the text presents a viewpoint or judgment about the topic (the fentanyl problem) and implies a recommendation or evaluative",phrased_answer,,Argumentation
+spade_127,I think.,Argumentation,"Based on the codebook, I would label the text as ""Argumentation"". 
+
+The reason is that the segment presents a viewpoint or judgment (""I think"") about a topic, which is a characteristic of argumentation. The purpose of this",phrased_answer,,Exposition
+spade_128,China White was.,Unclear,"Based on the codebook, I would label the text as ""Unclear"". The reason is that the text does not contain enough interpretable information to reliably determine its primary discourse mode. The sentence appears to be a fragment and lacks context,",phrased_answer,,Exposition
+spade_129,"Yeah, that's what it should be.",Argumentation,"Based on the codebook, I would label the text as:
+
+Argumentation
+
+This is because the text presents a viewpoint or judgment about what ""it"" should be, indicating a purpose to lead the listener toward a conclusion.",phrased_answer,,Argumentation
+spade_130,I was around for China White when I was a kid.,Narration,"Based on the codebook, I would label the given text as:
+
+Narration
+
+This is because the segment introduces a particular event or happening (being around for China White) into the discourse, which can be placed on an explicit or implied",phrased_answer,,Narration
+spade_131,"Like that was the – I was so lucky because you used to do a little sniffy-jiffy, I heard.",Argumentation,"Based on the provided codebook, I would label the given text as:
+
+Argumentation
+
+The reason for this classification is that the text presents a viewpoint or judgment about the speaker's past experience (""I was so lucky"") and also includes a",phrased_answer,,Narration
+spade_132,And it is fun.,Description,"Based on the codebook, I would label the text as ""Description"". 
+
+The reason is that the text presents the quality or feature of an experience (""it is fun""), which is intended to help the listener picture what something is like.",phrased_answer,,Argumentation
+spade_133,There are negatives.,Argumentation,"Based on the codebook, I would label the sentence ""There are negatives"" as Argumentation. 
+
+The reason for this classification is that the sentence presents a viewpoint or judgment about a topic (the presence of negatives). It implies a negative",phrased_answer,,Exposition
+spade_134,Yeah.,Unclear,"Based on the codebook, I would label the text as ""Unclear"". The text is a single word (""Yeah"") and does not contain enough interpretable information to reliably determine its primary discourse mode. It does not present a viewpoint,",phrased_answer,,Exposition
+spade_135,"But we always start with the positives, especially about that.",Argumentation,"Based on the codebook, I would label the given text as ""Argumentation"". 
+
+The reason for this classification is that the text presents a viewpoint (""we always start with the positives"") and a judgment (""especially about that"") about a",phrased_answer,,Exposition
+spade_136,"If I could afford more when I was parking cars and being a busboy, I would have –  Definitely gone crazy.",Argumentation,"Based on the provided codebook, I would label the given text as:
+
+Argumentation
+
+The reason for this classification is that the text presents a viewpoint or judgment about the speaker's past financial situation. The speaker is expressing a subjective interpretation of",phrased_answer,,Narration
+spade_137,"I could not, thank God.",Argumentation,"Based on the codebook, I would label the text as ""Argumentation"". 
+
+The reason for this classification is that the text presents a viewpoint or judgment (""I could not"") and includes an evaluative framing (""thank God""), which suggests",phrased_answer,,Narration
+spade_138,I could do a quarter gram in a weekend.,Exposition,"Based on the codebook, I would label the text as ""Exposition"". 
+
+The reason is that the text presents a neutral explanation or background information about the speaker's ability to consume a certain amount of a substance over a weekend. It",phrased_answer,,Narration
+spade_139,"Then I just, I could only afford 25 bucks.",Exposition,"Based on the provided codebook, I would label the given text as ""Exposition"". 
+
+The reason for this classification is that the text appears to be providing background information or context about the speaker's financial situation, specifically that they could only",phrased_answer,,Narration
+spade_140,That was it.,Narration,"Based on the codebook, I would label the text as ""Narration"". 
+
+The reason is that the text introduces a particular event (""That was it"") into the discourse, which can be placed on an explicit or implied timeline. This",phrased_answer,,Exposition
+spade_141,"And even that wasn't money well spent, but don't get all excited.",Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The text presents a viewpoint (""And even that wasn't money well spent"") and evaluative framing (""don't get all excited""), which is a judgment or",phrased_answer,,Argumentation
+spade_142,You're getting a boner.,Unclear,"Based on the codebook, I would label the text as ""Unclear"". 
+
+The reason is that the text does not contain enough interpretable information to reliably determine its primary discourse mode. The sentence appears to be a colloquial expression",phrased_answer,,Description
+spade_143,It is exciting.,Argumentation,"Based on the codebook, I would label the text as ""Argumentation"". 
+
+The reason is that the text presents a viewpoint or evaluative framing about a topic (in this case, the topic is likely something that is being discussed or",phrased_answer,,Argumentation
+spade_144,"I mean, talking about it, doing it, it was fun.",Narration,"Based on the provided codebook, I would label the given text as: 
+
+Narration
+
+The reason for this classification is that the text introduces a particular event or happening (talking about it, doing it) into the discourse, which",phrased_answer,,Argumentation
+spade_145,"It was hard to just...  quit it, but it's just, I just watch and you go, no way to have a career.",Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The text presents a viewpoint (""it was hard to just... quit it"") and an evaluative framing (""no way to have a career"") about a topic",phrased_answer,,Argumentation
+spade_146,There's no way to have anything good with all this pressure and shit you got to do.,Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+This is because the segment presents a viewpoint (expressed through the phrase ""no way to have anything good"") and a judgment (implied by the phrase",phrased_answer,,Argumentation
+spade_147,"And people like to rat you out and people like to say, this guy, you know, he's a little fucking dish, dish.",Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The text presents a viewpoint (the speaker's opinion about the person being discussed) and evaluative framing (the use of derogatory language to express disapproval",phrased_answer,,Argumentation
+spade_148,Yeah.,Unclear,"Based on the codebook, I would label the text as ""Unclear"". The text is a single word (""Yeah"") and does not contain enough interpretable information to reliably determine its primary discourse mode. It does not present a viewpoint,",phrased_answer,,Exposition
+spade_149,A little power flower now and then.,Description,"Based on the codebook, I would label the text as ""Description"". 
+
+The reason is that the text presents a quality or feature of something (a ""power flower""), which is likely intended to help the listener picture what it is like",phrased_answer,,Exposition
+spade_150,"So if they start getting that word out there, I luckily never got that word.",Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The reason for this classification is that the speaker presents a viewpoint or judgment about a topic (the word they're referring to). The speaker also implies that they",phrased_answer,,Narration
+spade_151,I didn't do any of the whole SNL and that's the funniest part is that I did dabble a little bit before that just because I was in fucking showbiz.,Argumentation,"Based on the provided codebook, I would label the given text as:
+
+Argumentation
+
+The text presents a viewpoint (the speaker's claim that they didn't participate in SNL) and evaluative framing (the speaker's tone and language",phrased_answer,,Narration
+spade_152,"And you're from Arizona, you're from Scottsdale.",Description,"Based on the codebook, I would label the given text as ""Description"". 
+
+The text presents the qualities or features of a person (you) by specifying their location (Arizona, Scottsdale). This helps the listener picture what the person",phrased_answer,,Exposition
+spade_153,Yeah.,Unclear,"Based on the codebook, I would label the text as ""Unclear"". The text is a single word (""Yeah"") and does not contain enough interpretable information to reliably determine its primary discourse mode. It does not present a viewpoint,",phrased_answer,,Exposition
+spade_154,It's not stale.,Argumentation,"Based on the codebook, I would label the sentence ""It's not stale"" as Argumentation. 
+
+The reason for this classification is that the sentence presents a viewpoint or judgment about the subject (it's not stale), which is a",phrased_answer,,Exposition
+spade_155,Yeah.,Unclear,"Based on the codebook, I would label the text as ""Unclear"". The text is a single word (""Yeah"") and does not contain enough interpretable information to reliably determine its primary discourse mode. It does not present a viewpoint,",phrased_answer,,Exposition
+spade_156,"Well, it doesn't mean it wasn't really the cocaine capital of the world, but you know, I was in the comedy biz and a couple of guys had it and I was like, I would partake just for fun.",Argumentation,"Based on the provided codebook, the primary discourse mode for the given text is:
+
+Argumentation
+
+The text presents a viewpoint (""it doesn't mean it wasn't really the cocaine capital of the world"") and a judgment (""I was like",phrased_answer,,Narration
+spade_157,"And, uh, obviously.",Unclear,"Based on the codebook, I would label the text as ""Unclear"". The reason is that the text does not contain enough interpretable information to reliably determine its primary discourse mode. The sentence appears to be a filler or a pause,",phrased_answer,,Exposition
+spade_158,"And then, but one time I did a lot and I was like, yeah, you're like, I should go to the hospital, you know?",Narration,"Based on the provided codebook, I would label the given text as:
+
+Narration
+
+The reason for this classification is that the text introduces a particular event or happening (the speaker going to the hospital) into the discourse. The event is",phrased_answer,,Narration
+spade_159,And you'll walk over there.,Narration,"Based on the codebook, I would label the text as ""Narration"". 
+
+The reason is that the text introduces a specific event or action (""you'll walk over there"") that can be placed on an explicit or implied timeline, which",phrased_answer,,Narration
+spade_160,"That's the craziest is no, I'm fucking sprinted.",Argumentation,"Based on the codebook, I would label the given text as ""Argumentation"". 
+
+The text presents a viewpoint (""That's the craziest"") and an evaluative framing (""I'm fucking sprinted"") about a topic, which",phrased_answer,,Description
+spade_161,"No, because the funny thing is you just turn into JonBenet.",Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The text presents a viewpoint or interpretation about a topic (JonBenet), and its purpose is to lead the listener toward a conclusion (in this case,",phrased_answer,,Description
+spade_162,"One bump and I'm like, I'm a Yankee Doodle Dandy and I'm feeling great.",Narration,"Based on the provided codebook, I would label the given text as:
+
+Narration
+
+The reason for this classification is that the text introduces a particular event or action (the speaker experiencing a bump and feeling great) into the discourse. This",phrased_answer,,Description
+spade_163,"And then I made my friend drive me and I got there and he's like,  And it was freezing and I was shaking and tight.",Narration,"Based on the provided codebook, I would label the given text as:
+
+Narration
+
+The text introduces a particular event (the speaker getting to a location) and describes the circumstances surrounding it (it was freezing and the speaker was shaking).",phrased_answer,,Narration
+spade_164,"And he goes, you got to go in there.",Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The reason for this classification is that the text presents a viewpoint or judgment (""you got to go in there"") about a topic, which is a characteristic of",phrased_answer,,Narration
+spade_165,"And he goes, but they're going to ask.",Narration,"Based on the codebook, I would label the given text as:
+
+Narration
+
+The reason for this classification is that the text introduces a particular event or action (he goes) and implies a consequence (they're going to ask) that",phrased_answer,,Narration
+spade_166,Because I didn't stand up for about a year.,Argumentation,"Based on the codebook, I would label the given text as ""Argumentation"". 
+
+The reason for this classification is that the text presents a viewpoint or judgment about the speaker's past behavior (""I didn't stand up for about a year",phrased_answer,,Narration
+spade_167,"And they go, they're going to ask.",Narration,"Based on the codebook, I would label the text as:
+
+Narration
+
+This is because the text introduces a particular event or action (""they go"") that can be placed on an explicit or implied timeline, which is a characteristic of the",phrased_answer,,Narration
+spade_168,And they're going to have to call the police.,Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The reason for this classification is that the segment presents a viewpoint or judgment about a situation (""they're going to have to call the police""). This implies a",phrased_answer,,Narration
+spade_169,"I go, no, no, no.",Unclear,"Based on the codebook, I would label the text as ""Unclear"". The text does not contain enough interpretable information to reliably determine its primary discourse mode. It appears to be a fragment of a conversation or a reaction, but it",phrased_answer,,Narration
+spade_170,Extra scared.,Argumentation,"Based on the codebook, I would label the text ""Extra scared"" as Argumentation. 
+
+The reason is that the text presents a viewpoint or judgment about the speaker's emotional state, which is a form of evaluative framing about a",phrased_answer,,Narration
+spade_171,And he cranks the heater on in the car.,Description,"Based on the codebook, the discourse mode that best represents the given text is:
+
+Description
+
+The text presents the qualities or features of a scene (the car) by describing the action of cranking the heater on, which helps the listener",standalone_label,,Narration
+spade_172,And I'm starting to fucking sweat.,Argumentation,"Based on the codebook, I would label the given text as ""Argumentation"". 
+
+The reason for this classification is that the text presents a viewpoint or judgment about the speaker's emotional state (""I'm starting to fucking sweat""). This is",phrased_answer,,Narration
+spade_173,But this is a good friend because he was there with me for three hours.,Narration,"Based on the provided codebook, I would label the given text as:
+
+Narration
+
+The reason for this classification is that the text introduces a particular event (the friend being there for three hours) into the discourse, which can be placed",phrased_answer,,Narration
+spade_174,He goes...,Narration,"Based on the codebook, I would label the sentence ""He goes..."" as Narration. 
+
+The reason is that the sentence introduces a particular event or action (he goes) into the discourse, which can be placed on an explicit or",phrased_answer,,Narration
+spade_175,"I'll let you, you should go in there in a second, but just tell me more.",Argumentation,"Based on the codebook, I would label the given text as ""Argumentation"". 
+
+The reason for this classification is that the speaker is presenting a viewpoint (""you should go in there"") and making a judgment or recommendation about what the listener",phrased_answer,,Narration
+spade_176,"And I was, I was calming down.",Narration,"Based on the provided codebook, I would label the given text as ""Narration"". 
+
+The reason for this classification is that the text introduces a particular event or action (the speaker calming down) into the discourse, which can be placed",phrased_answer,,Narration
+spade_177,This was the trick.,Narration,"Based on the codebook, I would label the sentence ""This was the trick"" as Narration. 
+
+According to the codebook, Narration is defined as a segment that introduces one or more particular events, actions, or happenings",phrased_answer,,Exposition
+spade_178,I didn't know this.,Argumentation,"Based on the codebook, I would label the text as ""Argumentation"". 
+
+The reason is that the sentence presents a viewpoint or judgment (""I didn't know this"") about a topic, which is a characteristic of argumentation. The",phrased_answer,,Exposition
+spade_179,And my heart was going from like 3000 over 2000 to like started to get back to normal.,Narration,"Based on the provided codebook, I would label the given text as:
+
+Narration
+
+This is because the text introduces a specific event or happening (the speaker's heart rate returning to normal) and can be placed on an implied timeline,",phrased_answer,,Narration
+spade_180,And then it got light out.,Narration,"Based on the codebook, I would label the text as:
+
+Narration
+
+This is because the segment introduces a particular event (it got light out) into the discourse, which can be placed on an explicit timeline. The event is specific",phrased_answer,,Narration
+spade_181,"And then I go, let's go home.",Narration,"Based on the provided codebook, I would label the given text as ""Narration"". 
+
+The reason for this classification is that the text introduces a particular event (going home) into the discourse, which can be placed on an explicit timeline",phrased_answer,,Narration
+spade_182,So gross.,Argumentation,"Based on the codebook, I would label the sentence ""So gross."" as Argumentation. 
+
+The reason for this classification is that the sentence presents a viewpoint or judgment about something, which is a key characteristic of argumentation. The use",phrased_answer,,Argumentation
+spade_183,"And then I go, I'll never do it again.",Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The reason for this classification is that the text presents a viewpoint or judgment about a past action (""I'll never do it again""). This statement implies a conclusion",phrased_answer,,Narration
+spade_184,"Four days later, hey, dude.",Narration,"Based on the codebook, I would label the text as ""Narration"". 
+
+The reason is that the segment introduces a particular event or happening (Four days later) and a specific action or action sequence (hey, dude), which can",phrased_answer,,Narration
+spade_185,I'm fucking jinking.,Argumentation,"Based on the codebook, I would label the sentence ""I'm fucking jinking"" as Argumentation. 
+
+The reason for this classification is that the sentence presents a viewpoint or judgment about the speaker's actions or emotions, which is a",phrased_answer,,Exposition
+spade_186,What a great guy.,Argumentation,"Based on the codebook, I would label the text as ""Argumentation"". 
+
+The reason is that the text presents a viewpoint or judgment about the person being referred to, specifically that they are a ""great guy"". This is an evalu",phrased_answer,,Argumentation
+spade_187,And they make me jump.,Argumentation,"Based on the codebook, I would label the text as: 
+
+Argumentation
+
+The reason for this classification is that the text presents a viewpoint or judgment about something (the speaker's reaction to something that makes them jump). The purpose of",phrased_answer,,Exposition
+spade_188,"Giovinet, brother.",Unclear,"Based on the codebook, I would label the text as ""Unclear"". The text is a single word and does not contain enough interpretable information to reliably determine its primary discourse mode. It does not present a viewpoint, introduce an event",phrased_answer,,Exposition
+spade_189,"Dude, it's funny.",Argumentation,"Based on the codebook, I would label the text as ""Argumentation"" because it presents a viewpoint or judgment about something (in this case, the text is expressing amusement or finding something funny). The purpose of this text is to lead",phrased_answer,,Argumentation
+spade_190,That's beautiful.,Description,"Based on the codebook, I would label the text as ""Description"". 
+
+The codebook defines Description as a segment that presents the qualities, features, appearance, setting, atmosphere, or sensory details of a person, place, object,",phrased_answer,,Argumentation
+spade_191,"In those days, first of all, because it reminded me of my old car because this place is out in the middle of nowhere next to some junkyard where we're shooting.",Narration,"Based on the codebook, the primary discourse mode for the given sentence is:
+
+Narration
+
+The sentence introduces a particular event or happening (""In those days"") and provides a setting (""out in the middle of nowhere next to some junkyard",phrased_answer,,Description
+spade_192,It's a nice area.,,"Based on the codebook, the discourse mode that best represents the text ""It's a nice area"" is Description.
+
+This is because the segment presents the qualities or features of a place (the area), and its purpose is to help the",unparsed,,Argumentation
+spade_193,"I mean, it's a nice area if you have no money.",Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The reason for this classification is that the text presents a viewpoint or judgment about a topic (the area in question). The speaker is making a statement that implies",phrased_answer,,Argumentation
+spade_194,So I used to go to this junkyard and go to pick a part.,Narration,"Based on the codebook, I would label the given text as: Narration.
+
+The reason for this classification is that the text introduces a particular event or action (going to a junkyard and picking a part) into the discourse, which",phrased_answer,,Narration
+spade_195,You know what that is?,Unclear,"Based on the codebook, I would label the text as ""Unclear"". The text does not contain enough interpretable information to reliably determine its primary discourse mode. It appears to be a question, but without more context, it's difficult",phrased_answer,,Exposition
+spade_196,Where they have all the cars out there.,Description,"Based on the codebook, I would label the text as: Description
+
+The reason is that the text presents a quality or feature of a place (the cars) and its purpose is to help the listener picture what something is like.",phrased_answer,,Exposition
+spade_197,And you go looking for what you need.,Exposition,"Based on the codebook, I would label the given text as ""Exposition"". 
+
+The reason for this classification is that the text presents a general truth or a habitual pattern (""you go looking for what you need"") without any evaluative",phrased_answer,,Exposition
+spade_198,And you get a part for your own car.,Exposition,"Based on the codebook, I would label the text as: Exposition.
+
+The reason is that the text provides neutral explanation or background information, specifically about the benefit of a particular service or product (getting a part for your own car).",phrased_answer,,Exposition
+spade_199,No one thinks this ultra pussy did that.,Argumentation,"Based on the codebook, I would label the given text as:
+
+Argumentation
+
+The reason for this classification is that the text presents a viewpoint or judgment about a topic. The speaker is making an evaluative statement about someone or something,",phrased_answer,,Argumentation
+spade_200,"I'd go out there when they got him a socket wrench looking for a Subaru brat handle and –  You know, they go, go out there.",Narration,"Based on the provided codebook, I would label the given text as Narration. 
+
+The text introduces a particular event or action (looking for a Subaru brat handle) and implies a sequence of events (going out there). The use of",phrased_answer,,Narration
+spade_201,And that's how all that Joe Dirt stuff started.,Narration,"Based on the codebook, I would label the given text as:
+
+Narration
+
+This is because the segment introduces a particular event (the origin of the ""Joe Dirt"" stuff) into the discourse, which can be placed on an explicit",phrased_answer,,Exposition
+spade_202,"Because I'm like, I did that.",Argumentation,"Based on the provided codebook, I would label the given text as ""Argumentation"". 
+
+The reason for this classification is that the text presents a viewpoint or judgment (""I did that"") which implies a conclusion or interpretation about the speaker's",phrased_answer,,Narration
+spade_203,Get an alternator.,Exposition,"Based on the codebook, I would label the text as ""Exposition"". 
+
+The reason is that the text provides neutral explanation or background information, specifically a recommendation or suggestion about what to do. It does not present a viewpoint, judgment",phrased_answer,,Narration
+spade_204,Put it in my Volvo.,Unclear,"Based on the codebook, I would label the text as ""Unclear"". The text does not contain enough interpretable information to reliably determine its primary discourse mode. It appears to be a command or instruction, but without more context, it",phrased_answer,,Narration
+spade_205,Put it in wrong.,Argumentation,"Based on the codebook, I would label the text as:
+
+Argumentation
+
+The reason is that the text presents a viewpoint or judgment about something (putting it in the wrong place), which is a characteristic of argumentation.",phrased_answer,,Narration
+spade_206,And just live that gross life.,Argumentation,"Based on the codebook, I would label the text as ""Argumentation"". 
+
+The reason is that the text presents a viewpoint or judgment about a particular lifestyle (""that gross life""), which is an evaluative framing about a topic. This",phrased_answer,,Argumentation

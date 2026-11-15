@@ -1,0 +1,437 @@
+id,text,prediction,raw_response,parse_method,quality_warning,gold
+spade_98,That's what guys say when they put their wiener in my face.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""That's what guys say when they put their wiener in my face"" contains a judgmental and evaluative tone. It frames a specific behavior (putting one's",keyed_answer,,Exposition
+spade_99,"Yeah, I know.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Yeah, I know."" is too brief and lacks sufficient context or content to determine its primary discourse mode. It does not clearly present an argument, narrate an event,",keyed_answer,,Exposition
+spade_100,Can you go a little closer?,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Can you go a little closer?"" is ambiguous in context. It could be a request for someone to move physically closer, a metaphorical or figurative request for more detail",keyed_answer,,Narration
+spade_101,"I go, why?",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""I go, why?"" is incomplete and lacks sufficient context to determine its communicative function. It appears to be a fragment or a question that is not fully formed, making",keyed_answer,,Narration
+spade_102,What are we doing?,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""What are we doing?"" is a question that lacks sufficient context to determine its primary discourse mode. It could be part of a conversation, a prompt, or a rhetorical question",keyed_answer,,Narration
+spade_103,This isn't a blowjob.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""This isn't a blowjob"" presents a judgment or interpretation about a topic. It is making a clear evaluative statement that challenges a claim or interpretation, which aligns with",keyed_answer,,Narration
+spade_104,"They go, no, no, no.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""They go, no, no, no."" is too brief and lacks sufficient context or content to determine its primary discourse mode. It does not clearly present an argument, narr",keyed_answer,,Narration
+spade_105,Just try to touch the back of your throat with it.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Just try to touch the back of your throat with it."" is a directive or instructional statement, but it lacks sufficient context to determine its primary discourse mode. It could be",keyed_answer,,Narration
+spade_106,"I go, but that sounds like it's heading towards a beach.",Description,"**Label: Description**
+
+**Reasoning:**  
+The sentence ""I go, but that sounds like it's heading towards a beach"" provides sensory or contextual details that help the listener picture a scene or setting (a beach). It does not",keyed_answer,,Narration
+spade_107,"Yeah, yeah.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Yeah, yeah."" is very brief and lacks sufficient content to determine its primary discourse mode. It does not clearly present an argument, narrate an event, describe something,",keyed_answer,,Exposition
+spade_108,"Oh, is he talking about Kaepernick?",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Oh, is he talking about Kaepernick?"" is a question that expresses surprise or curiosity about whether a specific topic (Kaepernick) is being discussed. It does not clearly present",keyed_answer,,Exposition
+spade_109,"Yeah, there's your boy right there.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""Yeah, there's your boy right there"" contains evaluative language (""your boy"") and a judgmental tone, which suggests an interpretation or endorsement of someone or something.",keyed_answer,,Exposition
+spade_110,And who's the last guy at the end of the line?,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""And who's the last guy at the end of the line?"" is ambiguous in context. It could be part of a narrative (e.g., describing a queue or a",keyed_answer,,Exposition
+spade_111,That is... That guy?,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""That is... That guy?"" is ambiguous and lacks sufficient context to determine its primary discourse mode. It could be a reaction, a question, or part of a larger conversation",keyed_answer,,Exposition
+spade_112,No.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The text ""No."" is too short and lacks sufficient context or content to determine its communicative function. It does not provide enough information to classify it as Argumentation, Narration,",keyed_answer,,Exposition
+spade_113,That's Grohl.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""That's Grohl."" is too brief and lacks sufficient context to determine its primary discourse mode. It could be part of a description (identifying a person), a narration",keyed_answer,,Exposition
+spade_114,"Yeah, that's Grohl.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Yeah, that's Grohl."" is too brief and lacks sufficient context to determine its primary discourse mode. It could be part of a description (identifying a person),",keyed_answer,,Exposition
+spade_115,Who's the guy in the back?,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Who's the guy in the back?"" is a question that could potentially fall under **Narration** if it is part of a larger context where specific events or people are",keyed_answer,,Exposition
+spade_116,"Yeah, the guy in the back.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Yeah, the guy in the back."" is too brief and lacks sufficient context to determine its primary discourse mode. It does not clearly present an argument, narrate an event",keyed_answer,,Exposition
+spade_117,That's a woman.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""That's a woman."" is too brief and lacks sufficient context to determine its primary discourse mode. It could be part of a description, narration, or even argumentation depending",keyed_answer,,Exposition
+spade_118,"No, that isn't.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""No, that isn't."" is too brief and lacks sufficient context to determine its primary discourse mode. It does not clearly express an argument, narrate an event, describe",keyed_answer,,Exposition
+spade_119,It could be.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""It could be"" is too vague and lacks sufficient context to determine its primary discourse mode. It does not clearly present an argument, narrate an event, describe something,",keyed_answer,,Exposition
+spade_120,that guy's just a homeless dude that walked on the set.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""that guy's just a homeless dude that walked on the set"" presents a judgmental interpretation of a person (calling him a ""homeless dude"") and frames his presence",keyed_answer,,Exposition
+spade_121,"And he's just like, temporary layout.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""And he's just like, temporary layout."" is incomplete, fragmented, and lacks sufficient context to determine its primary discourse mode. It appears to be a partial or mistrans",keyed_answer,,Exposition
+spade_122,They really got effed on Snow White though.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""They really got effed on Snow White though"" contains evaluative language (""really got effed on"") and implies a judgment or criticism about a group (""they"") in",keyed_answer,,Argumentation
+spade_123,"That is, it did not work in any way, shape or form.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""That is, it did not work in any way, shape or form"" presents a strong evaluative judgment about the effectiveness of something. It uses emphatic language (""in",keyed_answer,,Argumentation
+spade_124,"It's like, well, I guess people didn't like it.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""It's like, well, I guess people didn't like it"" expresses a judgment or interpretation about people's reaction to something. It includes evaluative language (""didn't",keyed_answer,,Exposition
+spade_125,And then Minecraft came along and beat the fucking shit out of it.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""And then Minecraft came along and beat the fucking shit out of it"" presents a strong evaluative judgment about the relative success or impact of Minecraft compared to something previously mentioned (",keyed_answer,,Argumentation
+spade_126,"Also, Snow White, it should be about the fentanyl problem, huh?",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""Also, Snow White, it should be about the fentanyl problem, huh?"" presents a judgment or interpretation about the topic (the fentanyl problem) and implies a recommendation",keyed_answer,,Argumentation
+spade_127,I think.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""I think"" is incomplete and does not provide enough context or content to determine its primary discourse mode. It lacks the necessary information to classify it as Argumentation, Narration",keyed_answer,,Exposition
+spade_128,China White was.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""China White was."" is incomplete and lacks sufficient context to determine its communicative function. It does not provide enough information to classify it as Argumentation, Narration, Description",keyed_answer,,Exposition
+spade_129,"Yeah, that's what it should be.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""Yeah, that's what it should be"" expresses a judgment or evaluation (""should be"") about a topic. It reflects a viewpoint or interpretation, which aligns with the",keyed_answer,,Argumentation
+spade_130,I was around for China White when I was a kid.,Narration,"**Label: Narration**
+
+**Reasoning:**  
+The sentence ""I was around for China White when I was a kid"" refers to a specific event or experience in the speaker's past. It introduces a particular occurrence (""China White"")",keyed_answer,,Narration
+spade_131,"Like that was the – I was so lucky because you used to do a little sniffy-jiffy, I heard.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence contains a judgmental tone (""sniffy-jiffy"") and implies a negative or critical view of the person being discussed. The speaker is expressing a personal opinion or evaluation",keyed_answer,,Narration
+spade_132,And it is fun.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""And it is fun."" is too brief and lacks sufficient context to determine its primary discourse mode. It could potentially be a **Description** (if it's meant to convey",keyed_answer,,Argumentation
+spade_133,There are negatives.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""There are negatives"" presents a judgment or evaluative framing about a topic. It implies a negative perspective or conclusion, which aligns with the definition of Argumentation. The",keyed_answer,,Exposition
+spade_134,Yeah.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Yeah."" is a single interjection with no clear content or context. It does not provide enough information to determine its communicative function. It could be a filler word,",keyed_answer,,Exposition
+spade_135,"But we always start with the positives, especially about that.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""But we always start with the positives, especially about that."" does not clearly indicate a specific discourse mode. It is a vague statement that could be interpreted in multiple ways.",keyed_answer,,Exposition
+spade_136,"If I could afford more when I was parking cars and being a busboy, I would have –  Definitely gone crazy.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence expresses a **viewpoint** and **judgment** about a past situation (parking cars and being a busboy). The speaker is **evaluating** their past financial",keyed_answer,,Narration
+spade_137,"I could not, thank God.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""I could not, thank God."" is brief and lacks sufficient context to determine its primary discourse mode. It could be interpreted as a statement of relief (possibly Argumentation or",keyed_answer,,Narration
+spade_138,I could do a quarter gram in a weekend.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""I could do a quarter gram in a weekend"" presents a claim or assertion about capability (i.e., the speaker's ability to produce a specific amount of something in a",keyed_answer,,Narration
+spade_139,"Then I just, I could only afford 25 bucks.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""Then I just, I could only afford 25 bucks."" presents a personal limitation or constraint, which can be interpreted as a judgment or evaluation of the speaker's financial",keyed_answer,,Narration
+spade_140,That was it.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""That was it."" is too brief and lacks sufficient context or content to determine its primary discourse mode. It does not clearly present an argument, narrate an event, describe",keyed_answer,,Exposition
+spade_141,"And even that wasn't money well spent, but don't get all excited.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""And even that wasn't money well spent, but don't get all excited."" presents a judgment (""wasn't money well spent"") and a recommendation (""don't get",keyed_answer,,Argumentation
+spade_142,You're getting a boner.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""You're getting a boner"" is ambiguous in context and lacks sufficient information to determine its primary discourse mode. It could be interpreted in multiple ways depending on context (e",keyed_answer,,Description
+spade_143,It is exciting.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""It is exciting"" expresses a judgment or evaluation (""exciting""), which aligns with the definition of Argumentation. It conveys a positive sentiment and potentially aims to influence",keyed_answer,,Argumentation
+spade_144,"I mean, talking about it, doing it, it was fun.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""I mean, talking about it, doing it, it was fun"" expresses a personal judgment or evaluation (""it was fun"") about an experience. It reflects the speaker's",keyed_answer,,Argumentation
+spade_145,"It was hard to just...  quit it, but it's just, I just watch and you go, no way to have a career.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence expresses a judgment or interpretation about the difficulty of quitting something and the perception that it's impossible to have a career in that area. The speaker is not merely describing a situation or",keyed_answer,,Argumentation
+spade_146,There's no way to have anything good with all this pressure and shit you got to do.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence expresses a judgment or evaluation about the negative impact of pressure and workload (""no way to have anything good""). It conveys a viewpoint that is critical of the situation, suggesting that",keyed_answer,,Argumentation
+spade_147,"And people like to rat you out and people like to say, this guy, you know, he's a little fucking dish, dish.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+This sentence contains evaluative language (""a little fucking dish, dish"") that expresses judgment or criticism about the person being discussed. The speaker is not merely describing or narrating an event,",keyed_answer,,Argumentation
+spade_148,Yeah.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Yeah."" is a single interjection with no clear content or context. It does not provide enough information to determine its communicative function. It could be a filler word,",keyed_answer,,Exposition
+spade_149,A little power flower now and then.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""A little power flower now and then"" is ambiguous and lacks sufficient context to determine its primary discourse mode. The phrase is unclear in meaning—“power flower” is not",keyed_answer,,Exposition
+spade_150,"So if they start getting that word out there, I luckily never got that word.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""So if they start getting that word out there, I luckily never got that word"" presents a judgment or interpretation about a situation. The speaker is implying that they were fortunate",keyed_answer,,Narration
+spade_151,I didn't do any of the whole SNL and that's the funniest part is that I did dabble a little bit before that just because I was in fucking showbiz.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+This sentence expresses a personal judgment (""the funniest part"") and includes a strong evaluative tone (""fucking showbiz"") that suggests the speaker is interpreting or commenting on their own experience",keyed_answer,,Narration
+spade_152,"And you're from Arizona, you're from Scottsdale.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""And you're from Arizona, you're from Scottsdale."" is brief and lacks sufficient context to determine its primary discourse mode. It appears to be a question or statement that",keyed_answer,,Exposition
+spade_153,Yeah.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Yeah."" is a single interjection with no clear content or context. It does not provide enough information to determine its communicative function. It could be a filler word,",keyed_answer,,Exposition
+spade_154,It's not stale.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""It's not stale"" presents a judgment or evaluation about the quality of something (likely a product or item). It is not merely describing a characteristic or providing factual information,",keyed_answer,,Exposition
+spade_155,Yeah.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Yeah."" is a single interjection with no clear content or context. It does not provide enough information to determine its communicative function. It could be a filler word,",keyed_answer,,Exposition
+spade_156,"Well, it doesn't mean it wasn't really the cocaine capital of the world, but you know, I was in the comedy biz and a couple of guys had it and I was like, I would partake just for fun.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+This sentence presents a personal viewpoint and judgment about a topic (the ""cocaine capital of the world""). The speaker is not merely describing or narrating an event, nor is it providing",keyed_answer,,Narration
+spade_157,"And, uh, obviously.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""And, uh, obviously."" contains hesitation markers (""uh"") and a vague evaluative word (""obviously""), but it lacks sufficient context or content to determine a clear communic",keyed_answer,,Exposition
+spade_158,"And then, but one time I did a lot and I was like, yeah, you're like, I should go to the hospital, you know?",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+This sentence expresses a personal judgment or recommendation (""I should go to the hospital"") in response to a situation. It reflects a decision-making process and includes evaluative language (""you're like",keyed_answer,,Narration
+spade_159,And you'll walk over there.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""And you'll walk over there."" is too brief and lacks sufficient context to determine its primary discourse mode. It could be part of a narrative, a description, or even",keyed_answer,,Narration
+spade_160,"That's the craziest is no, I'm fucking sprinted.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""That's the craziest is no, I'm fucking sprinted."" is incomplete, contains grammatical errors, and uses informal, potentially slang or misphrased",keyed_answer,,Description
+spade_161,"No, because the funny thing is you just turn into JonBenet.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""No, because the funny thing is you just turn into JonBenet"" presents a judgment or interpretation. It implies a comparison or evaluation (turning into JonBenet",keyed_answer,,Description
+spade_162,"One bump and I'm like, I'm a Yankee Doodle Dandy and I'm feeling great.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""One bump and I'm like, I'm a Yankee Doodle Dandy and I'm feeling great"" contains a personal reflection and a self-identification with a cultural stereotype",keyed_answer,,Description
+spade_163,"And then I made my friend drive me and I got there and he's like,  And it was freezing and I was shaking and tight.",Narration,"**Label: Narration**
+
+**Reasoning:**  
+This sentence describes a sequence of events that occurred in a specific time and context. The speaker recounts being driven by a friend, arriving at a location, and experiencing physical sensations (freezing",keyed_answer,,Narration
+spade_164,"And he goes, you got to go in there.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""And he goes, you got to go in there"" presents a directive or recommendation. It includes a judgment or advice (""you got to go in there""), which is an",keyed_answer,,Narration
+spade_165,"And he goes, but they're going to ask.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""And he goes, but they're going to ask."" is brief and lacks sufficient context to determine its primary discourse mode. It appears to be a fragment of a narrative or",keyed_answer,,Narration
+spade_166,Because I didn't stand up for about a year.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Because I didn't stand up for about a year"" is incomplete and lacks sufficient context to determine its primary discourse mode. It appears to be a fragment that does not clearly",keyed_answer,,Narration
+spade_167,"And they go, they're going to ask.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""And they go, they're going to ask."" is incomplete and lacks sufficient context to determine its primary discourse mode. It appears to be a fragment, possibly mid-sentence",keyed_answer,,Narration
+spade_168,And they're going to have to call the police.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""And they're going to have to call the police"" presents a judgment or recommendation about a course of action. It implies a consequence or necessary response to a situation, which",keyed_answer,,Narration
+spade_169,"I go, no, no, no.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""I go, no, no, no."" is too brief and lacks sufficient context or content to determine its primary discourse mode. It does not clearly present an argument, narr",keyed_answer,,Narration
+spade_170,Extra scared.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Extra scared"" is a short, emotionally charged expression. It contains an emotional state (""scared"") but lacks sufficient context to determine its primary discourse mode. It could be",keyed_answer,,Narration
+spade_171,And he cranks the heater on in the car.,Narration,"**Label: Narration**
+
+**Reasoning:**  
+The sentence ""And he cranks the heater on in the car"" describes a specific action that occurred in a particular context (in the car). It introduces a particular event (cranking",keyed_answer,,Narration
+spade_172,And I'm starting to fucking sweat.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""And I'm starting to fucking sweat."" contains strong emotional language and may suggest a personal reaction or internal state. However, it lacks sufficient context to determine whether it is expressing",keyed_answer,,Narration
+spade_173,But this is a good friend because he was there with me for three hours.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence presents a judgment (""this is a good friend"") and provides a specific example (""he was there with me for three hours"") to support that judgment. It is not merely describing",keyed_answer,,Narration
+spade_174,He goes...,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""He goes..."" is incomplete and lacks sufficient context or content to determine its primary discourse mode. It does not clearly present an argument, narrate an event, describe something,",keyed_answer,,Narration
+spade_175,"I'll let you, you should go in there in a second, but just tell me more.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""I'll let you, you should go in there in a second, but just tell me more."" is ambiguous and lacks sufficient context to determine its primary discourse mode. It",keyed_answer,,Narration
+spade_176,"And I was, I was calming down.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""And I was, I was calming down."" is ambiguous in terms of its communicative function. It appears to be a fragment or incomplete thought, and it lacks sufficient context",keyed_answer,,Narration
+spade_177,This was the trick.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""This was the trick"" is too brief and lacks sufficient context to determine its primary discourse mode. It could potentially be part of a narrative, an argument, or a description",keyed_answer,,Exposition
+spade_178,I didn't know this.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""I didn't know this"" is too brief and lacks sufficient context to determine its primary discourse mode. It could be part of a larger narrative, an evaluative statement,",keyed_answer,,Exposition
+spade_179,And my heart was going from like 3000 over 2000 to like started to get back to normal.,Narration,"**Label: Narration**
+
+**Reasoning:**  
+This sentence describes a sequence of events involving a change in the speaker's heart rate over time. It introduces specific events (heart rate going from 3000 to 20",keyed_answer,,Narration
+spade_180,And then it got light out.,Narration,"**Label: Narration**
+
+**Reasoning:**  
+The sentence ""And then it got light out"" describes a specific event that occurred in time—namely, the transition from darkness to light. It introduces a particular happening and implies a",keyed_answer,,Narration
+spade_181,"And then I go, let's go home.",Narration,"**Label: Narration**
+
+**Reasoning:**  
+The sentence ""And then I go, let's go home."" describes a specific action or event that occurs in a sequence of events. It indicates a transition from one activity to another (",keyed_answer,,Narration
+spade_182,So gross.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""So gross."" is too brief and lacks sufficient context to determine its primary discourse mode. It could potentially be an evaluative statement (Argumentation), a reaction to something described",keyed_answer,,Argumentation
+spade_183,"And then I go, I'll never do it again.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""And then I go, I'll never do it again."" expresses a personal judgment or decision, indicating a clear stance or evaluation of a past action. It reflects a conclusion",keyed_answer,,Narration
+spade_184,"Four days later, hey, dude.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Four days later, hey, dude."" contains a temporal reference (""Four days later"") and a casual greeting (""hey, dude""). However, it lacks sufficient context to determine",keyed_answer,,Narration
+spade_185,I'm fucking jinking.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""I'm fucking jinking"" contains strong language (""fucking"") and a potentially slang or colloquial term (""jinking""), which may not be clearly interpretable without",keyed_answer,,Exposition
+spade_186,What a great guy.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""What a great guy"" expresses a judgment or evaluation of a person, which aligns with the definition of Argumentation. It conveys a positive opinion and attempts to influence",keyed_answer,,Argumentation
+spade_187,And they make me jump.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""And they make me jump"" expresses a personal reaction or judgment. It implies an evaluative stance (e.g., something is surprising, startling, or unsettling), which align",keyed_answer,,Exposition
+spade_188,"Giovinet, brother.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Giovinet, brother."" is too brief and lacks sufficient context to determine its primary discourse mode. It does not clearly fit into Argumentation, Narration, Description",keyed_answer,,Exposition
+spade_189,"Dude, it's funny.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Dude, it's funny."" is too brief and lacks sufficient context or content to determine its primary discourse mode. It does not clearly present an argument, narrate an",keyed_answer,,Argumentation
+spade_190,That's beautiful.,Description,"**Label: Description**
+
+**Reasoning:**  
+The sentence ""That's beautiful"" presents an evaluative judgment about the appearance or qualities of something. It is not primarily trying to persuade, narrate an event, or provide background information.",keyed_answer,,Argumentation
+spade_191,"In those days, first of all, because it reminded me of my old car because this place is out in the middle of nowhere next to some junkyard where we're shooting.",Narration,"**Label: Narration**
+
+**Reasoning:**  
+This sentence describes a specific event or situation (the speaker's memory of an old car and the location of the shooting). It places the event in a particular context (middle of nowhere,",keyed_answer,,Description
+spade_192,It's a nice area.,Description,"**Label: Description**
+
+**Reasoning:**  
+The sentence ""It's a nice area"" presents qualities or features of a place (""nice"") and is intended to help the listener picture or understand what the area is like. It does not",keyed_answer,,Argumentation
+spade_193,"I mean, it's a nice area if you have no money.",Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""I mean, it's a nice area if you have no money"" presents a judgment or interpretation about a place. It implies that the area is only appealing or suitable for",keyed_answer,,Argumentation
+spade_194,So I used to go to this junkyard and go to pick a part.,Narration,"**Label: Narration**
+
+**Reasoning:**  
+The sentence ""So I used to go to this junkyard and go to pick a part"" describes a specific past activity (going to a junkyard to pick a part). It introduces",keyed_answer,,Narration
+spade_195,You know what that is?,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""You know what that is?"" is a question that does not provide sufficient context or content to determine its primary discourse mode. It is a fragment that lacks the necessary information to",keyed_answer,,Exposition
+spade_196,Where they have all the cars out there.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Where they have all the cars out there."" is incomplete and lacks sufficient context to determine its primary discourse mode. It appears to be a fragment, possibly mid-sentence or",keyed_answer,,Exposition
+spade_197,And you go looking for what you need.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""And you go looking for what you need"" is ambiguous in terms of its rhetorical function. It could be part of a narrative, a description, or even an argumentative",keyed_answer,,Exposition
+spade_198,And you get a part for your own car.,Exposition,"**Label: Exposition**
+
+**Reasoning:**  
+The sentence ""And you get a part for your own car"" provides neutral, factual information about a benefit or outcome. It does not attempt to persuade, describe a specific event, or",keyed_answer,,Exposition
+spade_199,No one thinks this ultra pussy did that.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""No one thinks this ultra pussy did that"" presents a judgment or interpretation about a specific action (""did that""). The phrase ""ultra pussy"" is a loaded label that",keyed_answer,,Argumentation
+spade_200,"I'd go out there when they got him a socket wrench looking for a Subaru brat handle and –  You know, they go, go out there.",Narration,"**Label: Narration**
+
+**Reasoning:**  
+This sentence describes a specific sequence of events involving someone going out to find a ""Subaru brat handle"" using a ""socket wrench."" It presents a particular action (going out there",keyed_answer,,Narration
+spade_201,And that's how all that Joe Dirt stuff started.,Narration,"**Label: Narration**
+
+**Reasoning:**  
+The sentence ""And that's how all that Joe Dirt stuff started."" introduces a specific event or sequence of events (the origin of the Joe Dirt stuff), and it implies a timeline or",keyed_answer,,Exposition
+spade_202,"Because I'm like, I did that.",Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Because I'm like, I did that."" is incomplete, fragmented, and lacks sufficient context to determine its primary discourse mode. It does not clearly present an argument, narr",keyed_answer,,Narration
+spade_203,Get an alternator.,Ad Read,"**Label: Ad Read**
+
+**Reasoning:**  
+The phrase ""Get an alternator"" is a direct call to action that aligns with the characteristics of an advertisement or promotional message. It is a concise, actionable statement that encourages the",keyed_answer,,Narration
+spade_204,Put it in my Volvo.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Put it in my Volvo."" is too brief and lacks sufficient context to determine its primary discourse mode. It could be part of a narrative (e.g., describing an action",keyed_answer,,Narration
+spade_205,Put it in wrong.,Unclear,"**Label: Unclear**
+
+**Reasoning:**  
+The sentence ""Put it in wrong."" is too brief and lacks sufficient context or content to determine its primary discourse mode. It does not clearly fit into Argumentation, Narration, Description",keyed_answer,,Narration
+spade_206,And just live that gross life.,Argumentation,"**Label: Argumentation**
+
+**Reasoning:**  
+The sentence ""And just live that gross life."" expresses a judgment or evaluation (""gross"") about a lifestyle, which is an evaluative framing. It implies a negative judgment about a way",keyed_answer,,Argumentation

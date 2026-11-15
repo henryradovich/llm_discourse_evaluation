@@ -1,0 +1,8 @@
+{
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "prompt_hash": "36e4470351dd9d5a1abbfea31ba7fdaeb53caf76032749d8ea29afc81341292e",
+  "data_hash": "a42060fda288af01c6d28ecaa61e37db7b781cbb31388c76d2b467a5fb16e24c",
+  "max_new_tokens": 48,
+  "max_input_tokens": 16384,
+  "dtype": "bf16"
+}
