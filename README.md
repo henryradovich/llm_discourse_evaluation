@@ -38,3 +38,16 @@ python evaluate_discourse.py \
   --output-dir <results_directory>
 ```
 
+The script will input the transcript text at placeholders in the prompt file.
+The placeholder for the target text to annotate is: ```{text}```
+The script also allows for 
+```
+{context_before} - placeholder for context preceding the target sentence
+{context_after} - context after the target sentence
+{context} - will print the combined preceding and following context
+```
+
+The ```--context-window``` arg determines how many utterances are shown in the context.
+Setting it to 0 will show all available context that is given in the jsonl file.
+
+You can also add the ```--preview-prompts``` arg to have the script print the rendered prompts to the terminal without using a gpu.
