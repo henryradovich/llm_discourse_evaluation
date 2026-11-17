@@ -18,7 +18,8 @@ print("GPU tensor test:", x.sum().item())
 PY
 ```
 
-The --gold-id-col and --gold-col args are just to get around the formatting of the potato jsonl file. I don't think they should change. 
+The --gold-id-col and --gold-col args are just to get around the formatting of the potato jsonl file. I don't think they should change.
+(At least they won't change while we're doing the main discourse mode evaluation, when we go to test emotion it will change)
 
 ```
 module load miniforge
