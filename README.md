@@ -52,3 +52,10 @@ The ```--context-window``` arg determines how many utterances are shown in the c
 Setting it to 0 will show all available context that is given in the jsonl file.
 
 You can also add the ```--preview-prompts``` arg to have the script print the rendered prompts to the terminal without using a gpu.
+
+The '0C' and '3C' in the results files references the number of sentences in the context. 
+'Added_defs' means that there is a couple sentences added in the definitions of the discourse modes in the system prompt.
+'Only defs' means there is only a strict single sentence definition of the modes in the system prompt.
+'No_reasoning' means that the model is forced to output a single label without providing any additional context or reasoning.
+
+ 
