@@ -585,44 +585,6 @@ def response_warning(raw_response, target_text):
     return None
 
 
-def repair_csv_file(source, destination=None):
-    """Recover labels in a prior CSV without loading models or needing gold-file inputs."""
-    if not source.is_file():
-        raise FileNotFoundError(source)
-    if destination is None:
-        destination = source.with_name(source.stem + "_reparsed.csv")
-    destination.parent.mkdir(parents=True, exist_ok=True)
-    with source.open(encoding="utf-8-sig", newline="") as f:
-        reader = csv.DictReader(f)
-        if not reader.fieldnames or "raw_response" not in reader.fieldnames:
-            raise ValueError("CSV must include a raw_response column")
-        fieldnames = list(reader.fieldnames)
-        for field in ("parse_method", "quality_warning"):
-            if field not in fieldnames:
-                fieldnames.append(field)
-        records = list(reader)
-    corrected = 0
-    unresolved = 0
-    flagged = 0
-    for rec in records:
-        label, method = extract_prediction(rec["raw_response"])
-        new_label = label or ""
-        if rec.get("prediction", "").strip() != new_label:
-            corrected += 1
-        rec["prediction"] = new_label
-        rec["parse_method"] = method
-        rec["quality_warning"] = response_warning(rec["raw_response"], rec.get("text")) or ""
-        unresolved += not bool(label)
-        flagged += bool(rec["quality_warning"])
-    with destination.open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(records)
-    print(f"Repaired CSV: {destination} ({len(records)} rows, {corrected} corrected, "
-          f"{unresolved} unresolved, {flagged} warnings)", flush=True)
-    return destination
-
-
 def infer(model_id, rows, prompts, output, a):
     import torch
     from transformers import AutoModelForCausalLM, AutoTokenizer

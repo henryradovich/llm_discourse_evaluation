@@ -41,7 +41,7 @@ ANNOTATION CODEBOOK:
     Core question to ask while annotating: Is this segment mainly creating a picture of what something is like, or is it trying to make me judge it? If it is mainly creating a picture, then it is Description.
 
 4. Exposition: 
-    Default rule: If the segment does not clearly fit Argumentation, Narration, Description, or Emotion Expression, then tag it as Exposition.
+    Default rule: If the segment does not clearly fit Argumentation, Narration, or Description, then tag it as Exposition.
     If the segment gives neutral explanation or background information. This includes definitions, clarifications, "how this works" explanations, general truths, factual context, procedural information, and habitual or recurring patterns.
     Exposition should be used when the segment is not mainly trying to persuade, not reporting a particular event on a timeline, not mainly creating a visual/sensory picture, and not mainly expressing an internal feeling.
     Basically, it is Exposition when the segment is helping the audience understand something in a neutral or informational way.
