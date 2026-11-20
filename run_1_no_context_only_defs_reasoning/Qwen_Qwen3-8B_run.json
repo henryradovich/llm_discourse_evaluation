@@ -1,8 +1,0 @@
-{
-  "model": "Qwen/Qwen3-8B",
-  "prompt_hash": "1d2ce089b66ff8d0aa625525e76a05b0194f07b103082991731da422468b6d3d",
-  "data_hash": "a42060fda288af01c6d28ecaa61e37db7b781cbb31388c76d2b467a5fb16e24c",
-  "max_new_tokens": 48,
-  "max_input_tokens": 16384,
-  "dtype": "bf16"
-}

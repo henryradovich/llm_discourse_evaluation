@@ -17,6 +17,8 @@ import os
 import tempfile
 from html.parser import HTMLParser
 from pathlib import Path
+import matplotlib.pyplot as plt
+from sklearn.metrics import ConfusionMatrixDisplay
 
 LABELS = ("Argumentation", "Narration", "Description", "Exposition", "Ad Read", "Unclear")
 MODELS = {"llama": "meta-llama/Llama-3.1-8B-Instruct", "qwen": "Qwen/Qwen3-8B"}
@@ -710,10 +712,53 @@ def report(output, rows):
                                            output_dict=True, zero_division=0),
     }
     prefix.with_name(prefix.name + "_metrics.json").write_text(json.dumps(metrics, indent=2))
-    pd.DataFrame(confusion_matrix(gold, predicted, labels=labels), index=labels,
-                 columns=labels).to_csv(prefix.with_name(prefix.name + "_confusion.csv"))
-    print(f"Gold-labeled: {len(labeled)}/{len(items)}  "
-          f"accuracy={metrics['accuracy']:.4f}  macro-F1={metrics['macro_f1']:.4f}")
+
+    cm = confusion_matrix(
+        gold,
+        predicted,
+        labels=labels
+    )
+    cm_df = pd.DataFrame(
+        cm,
+        index=labels,
+        columns=labels
+    )
+    cm_df.index.name = "Human Gold / LLM Predicted"
+    cm_df.to_csv(prefix.with_name(prefix.name + "_confusion.csv"))
+    # pd.DataFrame(confusion_matrix(gold, predicted, labels=labels), index=labels,
+    #              columns=labels).to_csv(prefix.with_name(prefix.name + "_confusion.csv"))
+    print(
+        f"Gold-labeled: {len(labeled)}/{len(items)}  "
+        f"accuracy={metrics['accuracy']:.4f}  "
+        f"macro-F1={metrics['macro_f1']:.4f}"
+    )
+
+    fig, ax = plt.subplots(figsize=(10, 8))
+
+    display = ConfusionMatrixDisplay(
+        confusion_matrix=cm,
+        display_labels=labels
+    )
+
+    display.plot(
+        ax=ax,
+        xticks_rotation=45,
+        values_format="d",
+        colorbar=False
+    )
+
+    ax.set_title("LLM Discourse Classification Confusion Matrix")
+    ax.set_xlabel("LLM Predicted Mode")
+    ax.set_ylabel("Human Gold Mode")
+
+    fig.tight_layout()
+
+    confusion_png = prefix.with_name(
+        prefix.name + "_confusion.png"
+    )
+
+    fig.savefig(confusion_png, dpi=200)
+    plt.close(fig)
 
 
 def main():
